@@ -1,0 +1,16 @@
+Conditional statement:[condition]
+
+if
+else if
+else 
+nested if
+switch,case,break
+
+
+
+parameters:
+optional para -> []
+named para -> {}
+default para -> {}
+
+
